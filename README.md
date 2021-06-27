@@ -32,5 +32,5 @@ For each vector representation method, you are asked to encode every sentence in
 sentences are from in that cluster. The cluster will be labelled with the genre that most sentences are from. After labeling each cluster, you are asked to compute the confusion matrix to show the accuracy of clustering using this particular vector representation. A confusion matrix shows for each label the percentage of correctly and incorrectly labelled data.
 
 
-Further details of the assignment can be found in the ReadMe [here](./COMP5349-CloudComputing/blob/main/Final_Assignment/project_report.pdf).
+Further details of the assignment can be found in the ReadMe [here](./Final_Assignment/project_report.pdf).
 Details to run each question code are present in the Readme of respective subfolders. 
